@@ -5,8 +5,8 @@
 WordPress is nice, until you realize that every little thing costs either money or more time than it's worth. This is a basic hand-made custom product page for WordPress' WooCommerce, meant more as an example on how to do things rather than something ready-to-go.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bce44872-e3b7-4c77-8afc-557a459035e3" alt="Customized WooCommerce product page" height="500"/>
-  <img src="https://github.com/user-attachments/assets/c21d2edf-0d29-45cf-9c42-7e138e12ea6a" alt="Customized WooCommerce mobile product page" height="500"/>
+  <img src="https://github.com/user-attachments/assets/bce44872-e3b7-4c77-8afc-557a459035e3" alt="Customized WooCommerce product page" height="420"/>
+  <img src="https://github.com/user-attachments/assets/c21d2edf-0d29-45cf-9c42-7e138e12ea6a" alt="Customized WooCommerce mobile product page" height="420"/>
 </p>
 
 ## Explanation
